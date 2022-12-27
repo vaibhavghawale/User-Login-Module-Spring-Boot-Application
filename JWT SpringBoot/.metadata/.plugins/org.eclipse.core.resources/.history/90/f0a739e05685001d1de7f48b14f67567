@@ -1,0 +1,5 @@
+package com.jwt.configuartion;
+
+public class MySecurityConfiguration {
+
+}
